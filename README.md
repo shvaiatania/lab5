@@ -1,1 +1,2 @@
-# lab5
+## Запуск
+ python src/app.py 
